@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @0AmiPatel
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning Java and DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning API automation
+- 💞️ I’m looking to collaborate on Javascript & Cypress...
+
 
 <!---
 0AmiPatel/0AmiPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
